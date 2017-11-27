@@ -1,0 +1,24 @@
+{
+  "name": "breakpoint-sass-drupal",
+  "version": "0.0.1",
+  "description": "Drupal breakpoints.yml to sass variables for http://breakpoint-sass.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "standart"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iberdinsky-skilld/breakpoint-sass-drupal.git"
+  },
+  "keywords": [
+    "drupal",
+    "sass",
+    "breakpoint"
+  ],
+  "author": "Ivan Berdinsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iberdinsky-skilld/breakpoint-sass-drupal/issues"
+  },
+  "homepage": "https://github.com/iberdinsky-skilld/breakpoint-sass-drupal#readme"
+}
